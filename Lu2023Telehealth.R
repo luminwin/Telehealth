@@ -35,7 +35,7 @@ dat <- impute(cbind(ACV_TELMED, ACV_INTERNET)~., data = dat, nimpute = 1)
 
 ot <- tune(cbind(ACV_TELMED, ACV_INTERNET)~., data = dat, 
            # na.action = "na.impute",  ## Another option to replace line 34
-           seed = 1)  ## change the seed might give you a different result
+           seed = 1)  ## changing the seed might provide a slightly different result
 
 # Check the result
 ot$optimal
