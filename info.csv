@@ -1,0 +1,64 @@
+Var,x.Nam
+XCV_SWABRSLT,Positive COVID-19 test
+XCV_ANTRESLT,Positive COVID-19 antibody test
+DMV_AGECAT,Age
+DMV_SEX,Gender
+DMV_RACE,Race/ethnicity group
+DMV_CBSA,Metro residence
+DMV_REGION,Region
+DMV_INCOME,Income
+DMV_OTHRLANG,Non-English
+DMV_H_OPMDCD,Medicare-Medicaid dual eligibility
+DMV_MA_FLAG,Medicare Advantage
+DMV_PARTD,Part D plan
+ACV_PLACPART,Particular place for med care
+ACV_PLACKIND,Kind of place for med care
+ACV_TELMED,Telehealth appointments offered
+ACV_TELMEDT1,Type of telehealth offered
+ACV_TELMEDBE,Telehealth offered before COVID-19
+ACV_TELMEDT2,Type of telehealth offered before COVID-19
+ACV_TELMEDDU,Telehealth offered since 11/1/20
+ACV_TELMEDT3,Type of telehealth offered
+ACV_TELMEDUS,Telehealth visit
+ACV_TELMEDT4,Type of telehealth visit
+ACV_COMPDESK,Own computer
+ACV_COMPPHON,Own smartphone
+ACV_COMPTAB,Own tablet
+ACV_INTERNET,Access to Internet
+ACV_AUDIOVID,Use video/voice calls
+ACV_COVIDCAR,Unable get care because of COVID-19
+EMV_DISRRENT,Able to pay rent/mortgage
+EMV_DISRMEDI,Able to get medication
+EMV_DISRAPPT,Able to get Dr appointment
+EMV_DISRFOOD,Able to get food
+EMV_DISRSUPP,Able to get home supplies
+EMV_DISRMASK,Able to to get face mask
+EMV_FEELFINC,Feel financially secure
+EMV_FEELANXI,Feel stressed
+EMV_FEELDEPR,Feel lonely or sad
+EMV_FEELSOCI,Feel socially connected
+HLV_AUTOIMRX,Weak immune system due to treatment/drug
+HLV_AUTOCND,Weak immune system due to health cond
+HLV_AUTOIMM,Weak immune system (any reason)
+HLV_OCHBP,Hypertension/high BP
+HLV_OCMYOCAR,Myocardial infarction
+HLV_OCCHD,Angina pectoris/CHD
+HLV_OCCFAIL,Congestive heart failure
+HLV_OCHRTCND,"Other heart cond, eg valve/rhythm"
+HLV_OCSTROKE,Stroke/brain hemorrhage
+HLV_OCCHOLES,High cholesterol
+HLV_OCCANCER,Cancer (non-skin)
+HLV_OCALZDEM,Alzheimers/dementia
+HLV_OCDEPRSS,Depression
+HLV_OCOSTEOP,Osteoporosis/soft bones
+HLV_OCBRKHIP,Broken hip
+HLV_OCEMPHYS,Emphysema/asthma/COPD
+HLV_OCBETES,Diabetes/high blood sugar
+HLV_ARTHRIT,Any arthritis
+HLV_HEART,Any heart condition
+HLV_OSTEO,Any osteoporosis/broken hip
+HLV_EVRSMKAL,Ever smoke cigarette/cigar/pipe
+HLV_SMKNOWAL,Currently smoke cigarette/cigar/pipe
+HLV_ECIGONE,Ever used e-cigarette
+HLV_ECIGNOW,Smoke e-cigarette now
+INV_INTWEEK,Interview date
