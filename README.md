@@ -6,8 +6,8 @@ Maintainer: Min Lu \<m.lu6@umiami.edu\>
 H. Ishwaran, M. Lu, and U. B. Kogalur. 2021. *“randomForestSRC: getting started with randomForestSRC vignette.”* http://randomforestsrc.org/articles/getstarted.html
 
 This repository contains the basic R code for conducting a complete analysis using a Random Forest Model illustrated by the data and R code from Lu and Liao (2022). There are three basic steps:<br>
-Step 1: Impute missing data & Tuning parameters <br>
-Step 2: Fitting a random forest model <br>
+Step 1: Impute Missing Data & Tuning Parameters <br>
+Step 2: Fitting a Random Forest Model <br>
 Step 3: Variable Importance w/wo Interaction Detection <br>
 For more complex problems such as survival analysis, class-imbalanced classifier, competing risks, etc, please check our [workflow](https://www.randomforestsrc.org/articles/getstarted.html#workflow) and [vegnettes](https://www.randomforestsrc.org/articles/)
 
