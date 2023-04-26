@@ -27,7 +27,7 @@ load(url("https://luminwin.github.io/Telehealth/dat.rda") )
 info <- read.csv("https://luminwin.github.io/Telehealth/info.csv")
 
 ############################################################################
-#  Step 1: Impute missing data & Tuning parameters (Figure S1)
+#  Step 1: Impute Missing data & Tuning Parameters (Figure S1)
 ############################################################################
 library(randomForestSRC)
 
@@ -70,7 +70,7 @@ plot.tune(ot)
 #dev.off()
 
 ############################################################################
-#  Step 2: Fitting a random forest model 
+#  Step 2: Fitting a Random Forest Model 
 ############################################################################
 o <- rfsrc(cbind(ACV_TELMED, ACV_INTERNET)~., 
            data = dat, ntree = 1000, seed = 1, 
